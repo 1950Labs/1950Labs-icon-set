@@ -1,4 +1,4 @@
-![portada](./portada.jpg)
+![Portada](./Portada.jpg)
 
 # 1950Labs-icon-set
 ## About the 1950Labs Icon Set:
