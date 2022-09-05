@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Location-1950@1x</title>
+    <g id="1950Icons/Location-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(4.000000, 2.000000)">
+            <path d="M8,1 C9.93299662,1 11.6829966,1.78350169 12.9497475,3.05025253 C14.2164983,4.31700338 15,6.06700338 15,8 C15,10.6628699 12.5673422,14.1785078 7.99953688,18.6139256 C3.43234632,14.1780576 1,10.6626994 1,8 C1,6.06700338 1.78350169,4.31700338 3.05025253,3.05025253 C4.31700338,1.78350169 6.06700338,1 8,1 Z" id="Oval" stroke="#000000" stroke-width="2"></path>
+            <circle id="Oval" fill="#000000" cx="8" cy="8" r="3"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Eye-1950@1x</title>
+    <g id="1950Icons/Eye-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(3.428571, 6.000000)">
+            <path d="M8.57142857,12 C11.7273414,12 14.5844843,10 17.1428571,6 C14.5844843,2 11.7273414,0 8.57142857,0 C5.41551572,0 2.55837286,2 0,6 C2.55837286,10 5.41551572,12 8.57142857,12 Z" id="Oval" stroke="#000000" stroke-width="2"></path>
+            <circle id="Oval" fill="#000000" cx="8.57142857" cy="6" r="3"></circle>
+        </g>
+    </g>
+</svg>

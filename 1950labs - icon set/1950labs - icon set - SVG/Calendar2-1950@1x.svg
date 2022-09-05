@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Calendar2-1950@1x</title>
+    <g id="1950Icons/Calendar2-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,4 C20.6568542,4 22,5.34314575 22,7 L22,19 C22,20.6568542 20.6568542,22 19,22 L6,22 C4.34314575,22 3,20.6568542 3,19 L3,7 C3,5.34314575 4.34314575,4 6,4 L19,4 Z M19,6 L6,6 C5.44771525,6 5,6.44771525 5,7 L5,19 C5,19.5522847 5.44771525,20 6,20 L19,20 C19.5522847,20 20,19.5522847 20,19 L20,7 C20,6.44771525 19.5522847,6 19,6 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <circle id="Oval-Copy" fill="#000000" cx="12.5" cy="12.5" r="1.5"></circle>
+        <circle id="Oval-Copy-4" fill="#000000" cx="12.5" cy="17.5" r="1.5"></circle>
+        <circle id="Oval-Copy-2" fill="#000000" cx="7.5" cy="12.5" r="1.5"></circle>
+        <circle id="Oval-Copy-5" fill="#000000" cx="7.5" cy="17.5" r="1.5"></circle>
+        <circle id="Oval-Copy-3" fill="#000000" cx="17.5" cy="12.5" r="1.5"></circle>
+        <line x1="4" y1="8.5" x2="20" y2="8.5" id="Line-5" stroke="#000000" stroke-width="2" stroke-linecap="square"></line>
+        <line x1="9" y1="4.5" x2="9" y2="3.5" id="Line-6" stroke="#000000" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="16" y1="4.5" x2="16" y2="3.5" id="Line-6" stroke="#000000" stroke-width="2" stroke-linecap="round"></line>
+    </g>
+</svg>

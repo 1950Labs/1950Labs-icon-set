@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Apartments-1950@1x</title>
+    <g id="1950Icons/Apartments-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,2 C19.1045695,2 20,2.8954305 20,4 L20,20 C20,21.1045695 19.1045695,22 18,22 L6,22 C4.8954305,22 4,21.1045695 4,20 L4,4 C4,2.8954305 4.8954305,2 6,2 L18,2 Z M18,4 L6,4 L6,20 L18,20 L18,4 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M12,17 C13.1045695,17 14,17.8954305 14,19 L14,20 C14,21.1045695 13.1045695,22 12,22 C10.8954305,22 10,21.1045695 10,20 L10,19 C10,17.8954305 10.8954305,17 12,17 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle-Copy" fill="#000000" x="11" y="9" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-2" fill="#000000" x="11" y="13" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-4" fill="#000000" x="11" y="5" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-3" fill="#000000" x="7" y="9" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-6" fill="#000000" x="7" y="13" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-10" fill="#000000" x="15" y="9" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-12" fill="#000000" x="15" y="13" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-5" fill="#000000" x="7" y="5" width="2" height="3" rx="1"></rect>
+        <rect id="Rectangle-Copy-11" fill="#000000" x="15" y="5" width="2" height="3" rx="1"></rect>
+    </g>
+</svg>

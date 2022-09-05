@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Filter-1950@1x</title>
+    <g id="1950Icons/Filter-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(2.000000, 3.000000)">
+            <path d="M14,9 C14,9.36442426 14.0974676,9.70608373 14.2677566,10.0003321 L0,10 L0,8 L14.2679094,7.99940385 C14.0975259,8.2937119 14,8.63546675 14,9 Z M20,8 L20,10 L17.7322434,10.0003321 C17.9025324,9.70608373 18,9.36442426 18,9 C18,8.63546675 17.9024741,8.2937119 17.7320906,7.99940385 L20,8 Z" id="Combined-Shape" fill="#000000"></path>
+            <path d="M14,2 C14,2.36442426 14.0974676,2.70608373 14.2677566,3.00033215 L0,3 L0,1 L14.2679094,0.999403849 C14.0975259,1.2937119 14,1.63546675 14,2 Z M20,1 L20,3 L17.7322434,3.00033215 C17.9025324,2.70608373 18,2.36442426 18,2 C18,1.63546675 17.9024741,1.2937119 17.7320906,0.999403849 L20,1 Z" id="Combined-Shape-Copy" fill="#000000" transform="translate(10.000000, 2.000241) scale(-1, 1) translate(-10.000000, -2.000241) "></path>
+            <circle id="Oval-Copy" stroke="#000000" stroke-width="2" transform="translate(4.000000, 2.000000) scale(-1, 1) translate(-4.000000, -2.000000) " cx="4" cy="2" r="2"></circle>
+            <circle id="Oval" stroke="#000000" stroke-width="2" cx="16" cy="9" r="2"></circle>
+            <g id="Group" transform="translate(0.000000, 14.000000)">
+                <path d="M8,2 C8,2.36442426 8.09746762,2.70608373 8.26775657,3.00033215 L0,3 L0,1 L8.26790938,0.999403849 C8.09752593,1.2937119 8,1.63546675 8,2 Z M20,1 L20,3 L11.7322434,3.00033215 C11.9025324,2.70608373 12,2.36442426 12,2 C12,1.63546675 11.9024741,1.2937119 11.7320906,0.999403849 L20,1 Z" id="Combined-Shape-Copy-2" fill="#000000" transform="translate(10.000000, 1.999868) scale(-1, 1) translate(-10.000000, -1.999868) "></path>
+                <circle id="Oval-Copy" stroke="#000000" stroke-width="2" transform="translate(10.000000, 2.000000) scale(-1, 1) translate(-10.000000, -2.000000) " cx="10" cy="2" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

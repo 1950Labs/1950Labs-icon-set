@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Bookmark-1950@1x</title>
+    <g id="1950Icons/Bookmark-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M18,2 C18.5522847,2 19,2.44771525 19,3 L19,16 C19,16.5522847 18.5522847,17 18,17 L6,17 C5.44771525,17 5,16.5522847 5,16 L5,3 C5,2.44771525 5.44771525,2 6,2 L18,2 Z M17,4 L7,4 L7,15 L17,15 L17,4 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M18,2 C18.5522847,2 19,2.44771525 19,3 L19,19 C19,19.5522847 18.5522847,20 18,20 L6,20 C5.44771525,20 5,19.5522847 5,19 L5,3 C5,2.44771525 5.44771525,2 6,2 L18,2 Z M17,4 L7,4 L7,18 L17,18 L17,4 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <polygon id="Path-10" fill="#000000" fill-rule="nonzero" points="10 17 10 18.381 11 19.309017 12 18.382 12 17 14 17 14 21.618034 11 20.118 8 21.618034 8 17"></polygon>
+        <polygon id="Line-17" fill="#000000" fill-rule="nonzero" points="10 3 10 17.5 8 17.5 8 3"></polygon>
+    </g>
+</svg>

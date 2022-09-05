@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1950Icons/Warning-1950@1x</title>
+    <g id="1950Icons/Warning-1950" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M13.0070201,4.11037408 C13.1535738,4.19658212 13.2757262,4.3187345 13.3619342,4.46528817 L21.6135176,18.4929799 C21.8935371,18.969013 21.7346366,19.5819147 21.2586035,19.8619342 C21.1049268,19.9523322 20.9298761,20 20.7515834,20 L4.24841664,20 C3.69613189,20 3.24841664,19.5522847 3.24841664,19 C3.24841664,18.8217072 3.2960844,18.6466565 3.38648243,18.4929799 L11.6380658,4.46528817 C11.9180853,3.98925504 12.530987,3.83035459 13.0070201,4.11037408 Z M12.5,6.944 L5.996,18 L19.003,18 L12.5,6.944 Z" id="Triangle" fill="#000000" fill-rule="nonzero"></path>
+        <polygon id="Line" fill="#000000" fill-rule="nonzero" points="13.5 10 13.5 15.5 11.5 15.5 11.5 10"></polygon>
+        <polygon id="Rectangle" fill="#000000" fill-rule="nonzero" points="13.5 16 13.5 17 11.5 17 11.5 16"></polygon>
+    </g>
+</svg>
